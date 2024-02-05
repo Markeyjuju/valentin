@@ -2,9 +2,9 @@ const why = [
     '??',
     'tes sur?',
     'vraiment?',
-    'reconsidere',
+    'reflechis un peu',
     'reponse finale?',
-    "penses s'y",
+    "penses sy bien",
 ]
 const noButton = document.querySelector('button:last-of-type')
 const yesButton = document.querySelector('button:first-of-type')
