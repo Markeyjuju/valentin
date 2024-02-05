@@ -20,5 +20,6 @@ const careless = () => {
     const audio = new Audio('careless.mp3')
     audio.play()
     document.querySelector('.buttons').remove()
+    document.querySelector('.title').remove()
     document.querySelector('.reveal').style.display = 'flex'
 }
